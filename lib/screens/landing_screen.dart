@@ -47,7 +47,7 @@ class IntroWidget extends StatelessWidget {
                 Expanded(
                   flex: 2,
                   child: Text(
-                    'Welcome to Veggie Fresh',
+                    'Ecommerce demo project',
                     style: Theme.of(context).textTheme.headline2.copyWith(
                           color: kTextColor,
                           fontWeight: FontWeight.w600,

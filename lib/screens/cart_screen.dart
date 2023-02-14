@@ -31,7 +31,7 @@ class CartScreen extends StatelessWidget {
             SizedBox(
               height: getProportionateScreenHeight(16.0),
             ),
-            Column(
+            /*Column(
               children: List.generate(
                 3,
                 (index) => Column(
@@ -47,7 +47,7 @@ class CartScreen extends StatelessWidget {
                   ],
                 ),
               ),
-            ),
+            ),*/
             Spacer(),
             Row(
               children: [
